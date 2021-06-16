@@ -21,3 +21,9 @@ header h1 {
     padding: 20px 20px;
     display: inline-block;
 }
+
+header ul {
+    margin: auto;
+    padding: 25px 20px;
+    display: inline-block;
+}
