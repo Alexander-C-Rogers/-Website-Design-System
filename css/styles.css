@@ -27,3 +27,9 @@ header ul {
     padding: 25px 20px;
     display: inline-block;
 }
+
+header li {
+    font-size: 1.5em;
+    display: inline-block;
+    margin: 0px 50px;
+}
