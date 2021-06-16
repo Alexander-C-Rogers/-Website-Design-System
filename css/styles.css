@@ -96,3 +96,13 @@ nav a {
     border: 1px solid black;
     text-align: center;
 }
+
+.fontbox {
+    padding-left: 7px;
+    margin: 20px 20px 20px 20px;
+    min-height: 100px;
+    min-width: 20%;
+    background-color: white;
+    font-size: 17px;
+    border-left: 2px solid black;
+}
