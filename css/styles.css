@@ -34,6 +34,15 @@ header li {
     margin: 0px 50px;
 }
 
+nav {
+    float: right;
+}
+
+nav a {
+    text-decoration: none;
+    color: #f8f8f8;
+}
+
 /*@media Selectors*/
 @media only screen and (max-width: 1200px){
     header {
