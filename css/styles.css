@@ -143,3 +143,10 @@ nav a {
 #purpur {
     background-color: #9648ab;
 }
+
+#colors {
+    margin: 95px auto 50px auto;
+    width: 90%;
+    border: 1px solid black;
+    background-color: white;
+}
