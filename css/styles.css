@@ -1,4 +1,4 @@
-/*elemenet selectors*/
+/*Elemenet Selectors*/
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
@@ -33,3 +33,34 @@ header li {
     display: inline-block;
     margin: 0px 50px;
 }
+
+/*@media Selectors*/
+@media only screen and (max-width: 1200px){
+    header {
+        font-size: 15px;
+    }
+    
+    header li {
+        font-size: 1.5em;
+        display: inline-block;
+        margin: 0px 10px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    header {
+        font-size: 12px;
+    }
+    
+    header li {
+        font-size: 1.5em;
+        display: inline-block;
+        margin: 5px 10px;
+    }
+
+    header h1, header ul {
+        margin: auto;
+        padding: 5px;
+        display: inline-block;
+    }    
+}    
